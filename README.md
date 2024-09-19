@@ -37,7 +37,7 @@ A Python project to scrape data from websites using LLM (Large Language Models).
 
 Run the script to start scraping:
 
-bash
+```bash
 python main.py
-
+```
 The scraped data will be saved in `scraped_data.csv`.
